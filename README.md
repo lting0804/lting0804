@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lachlan
+- 💼 Currently a Software Engineering Intern at MongoDB 
 - 👀 I’m interested in Robotics / Machine Learning / Artificial Intelligence 
 - 🌱 I’m currently learning Front End to make an Augmented Reality Application
 - 💞️ I’m looking to collaborate on anything :))
