@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lachlan
-- 💼 Currently a Final Year University student @ UNSW
-- 👀 I’m interested in Robotics / Machine Learning / Artificial Intelligence 
+- 💼 Recent CompSci/Mechatronics Graduate from UNSW, incoming SE @ CBA
+- 👀 I’m interested in Robotics / Machine Learning / Artificial Intelligence / Mobile and/or Fullstack applications
 - 🌱 I’m currently building a couple of things feel free to come back when its done!
 - 💞️ I’m looking to collaborate on anything :))
 - 📫 How to reach me @lting0804 on most platforms Lachlan Ting on Linkedin :D
