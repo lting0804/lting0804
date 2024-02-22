@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lachlan
-- 💼 Recent CompSci/Mechatronics Graduate from UNSW, incoming SE @ CBA
+- 💼 Recent CompSci/Mechatronics Graduate from UNSW, Graduate SE @ CBA
 - 👀 I’m interested in Robotics / Machine Learning / Artificial Intelligence / Mobile and/or Fullstack applications
 - 🌱 I’m currently building a couple of things feel free to come back when its done!
 - 💞️ I’m looking to collaborate on anything :))
